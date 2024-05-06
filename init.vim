@@ -51,6 +51,7 @@ let g:NERDTreeDirArrowCollapsible="~"
 " :CocInstall coc-python
 " :CocInstall coc-clangd
 " :CocInstall coc-snippets
+" :CocInstall coc-words
 " :CocCommand snippets.edit... FOR EACH FILE TYPE
 
 " air-line
