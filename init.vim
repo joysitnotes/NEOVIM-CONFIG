@@ -48,12 +48,14 @@ let g:NERDTreeDirArrowCollapsible="~"
 " --- Just Some Notes ---
 " :PlugClean :PlugInstall :UpdateRemotePlugins
 "
-" :CocInstall coc-python
-" :CocInstall coc-clangd
-" :CocInstall coc-snippets
-" :CocInstall coc-words
-" :CocCommand snippets.edit... FOR EACH FILE TYPE
-
+" CocInstall coc-pyright
+" CocInstall coc-clangd
+" CocInstall coc-snippets
+" CocInstall coc-word
+" CocInstall coc-html
+" CocInstall coc-css
+" CocInstall coc-tsserver
+" CocInstall @yaegassy/coc-intelephense 
 " air-line
 let g:airline_powerline_fonts = 1
 
